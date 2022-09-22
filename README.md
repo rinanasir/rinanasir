@@ -2,7 +2,7 @@
 
 - 🔭 I can work with both MEAN and MERN
 - 👯 I’m looking to collaborate on Full-stack Development
-- 📫 How to reach me: [Portfolio](https://rina-nasir.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/rina-nasir-3a305b170) | [Twitter](https://twitter.com/rn_monal)
+- 📫 How to reach me: [Portfolio](https://rina-nasir.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/rina-nasir) | [Twitter](https://twitter.com/rn_monal)
 
 <!--
 **rinanasir/rinanasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
